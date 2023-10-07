@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/2560894/pexels-photo-2560894.jpeg",
+    "name": "Yellow Pac-Man TShirt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 120000
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/3026284/pexels-photo-3026284.jpeg",
+    "name": "Black Crown TShirt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 160000
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/1933589/pexels-photo-1933589.jpeg",
+    "name": "White Nirvana TShirt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 135000
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/4066292/pexels-photo-4066292.jpeg",
+    "name": "Simple Black TShirt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 90000
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/6311251/pexels-photo-6311251.jpeg",
+    "name": "Simple White TShirt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 90000
+  },
+  {
+    "id": 6,
+    "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=1034,height=1376,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-trucker-jacket-723340658_01_Front.jpg",
+    "name": "Levi's Trucker Jacket",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 320000
+  },
+  {
+    "id": 7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEJnLGSG1X9RNtxmFz9x1nffXZK_s2MQ2NUoYv06FlbMvDctjijA9q5Ktk13-W7t2oPs&usqp=CAU",
+    "name": "Stylish Denim Jacket",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 280000
+  },
+  {
+    "id": 8,
+    "image": "https://redwoodclassics.net/cdn/shop/products/W2001-NavySand.jpg",
+    "name": "Polar Navy-Sand Crewneck",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 220000
+  },
+  {
+    "id": 9,
+    "image": "https://nb.scene7.com/is/image/NB/ut21501bk_nb_74_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600",
+    "name": "French Terry Crewneck",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis consectetur praesentium facere dolorem dignissimos possimus.",
+    "price": 210000
+  }
+]
